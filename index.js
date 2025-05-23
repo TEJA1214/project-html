@@ -2,7 +2,7 @@ var a= 1
 var b= 2
 var c=a+b
 console.log(c);
-// console.log(text.includes("JavaScript"));
+console.log(text.includes("JavaScript"));
 
 var a1 =12
 var a2= 10
