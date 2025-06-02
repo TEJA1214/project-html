@@ -19,4 +19,10 @@ var yx=4
 var yxy=a-b
 console.log(yxy);
 
+function str (a,b){
+    return a+b
+}
+console.log(str(10,5));
+
+
 
